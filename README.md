@@ -1,5 +1,4 @@
-# Blake2
-![workflow status](https://github.com/nim-community/blake2/workflows/test/badge.svg)
+# Blake2 [![Test](https://github.com/nim-community/blake2/actions/workflows/ci.yml/badge.svg)](https://github.com/nim-community/blake2/actions/workflows/ci.yml)
 
 [BLAKE2b](https://blake2.net) cryptographic hash function for Nim.
 
